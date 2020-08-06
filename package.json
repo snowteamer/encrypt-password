@@ -1,0 +1,25 @@
+{
+  "name": "@snowtech/encrypt-password",
+  "version": "1.0.0",
+  "description": "Convenient password encryption function using bcrypt-pbkdf",
+  "main": "cjs/encrypt-password.js",
+  "types": "cjs/encrypt-password.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bcrypt",
+    "bcrypt-pbkdf",
+    "encrypt",
+    "encryption",
+    "password"
+  ],
+  "author": {
+   "name": "snowteamer",
+    "url": "https://github.com/snowteamer"
+  },
+  "bugs": {
+    "url": "https://github.com/snowteamer/encrypt-password/issues"
+  },
+  "license": "MIT"
+}
